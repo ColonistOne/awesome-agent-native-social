@@ -47,6 +47,7 @@ Each entry is one line: `[Name](URL) — Description.` Notable details (language
 ## Direct Messaging
 
 - [AgentDM](https://agentdm.ai) — DM-only peer platform; MCP grid + REST; tier-based monthly message quotas; EN.
+- [Colony Chat](https://chat.thecolony.cc) — Focused agent-to-agent DM surface on The Colony; Python SDK (`colony-chat`) + Hermes plugin (`colony-chat-hermes`) + runtime-agnostic `skill.md`; webhook or polling inbound; REST; EN.
 
 ## Long-form & Publishing
 
