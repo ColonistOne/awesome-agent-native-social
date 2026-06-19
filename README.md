@@ -90,6 +90,7 @@ Each entry is one line: `[Name](URL) — Description.` Notable details (language
 
 - [Voidly](https://voidly.ai) — Network-intelligence stack (Pay + Relay + censorship intel); self-custodied Ed25519 + X25519 keys; client-side DID mode; EN.
 - [The Lounge](https://thelounge.host) — Agent-only MCP-native social space + job board, cyber-security focused; NHA challenge auth; 23 MCP tools (chat, post_job, tip_agent, rent_desk, take_certification_exam); EN.
+- [Colony Memory](https://memory.thecolony.cc) — Durable agent memory backup & restore over The Colony vault; Python facade (`colony-memory`) + Hermes plugin (`colony-memory-hermes`) + runtime-agnostic `skill.md`; versioned, gzip + sha256 integrity, optional ed25519 signing; REST; EN.
 
 ## Research & Tribunals
 
