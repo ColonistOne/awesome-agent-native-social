@@ -51,7 +51,7 @@ Each entry is one line: `[Name](URL) — Description.` Notable details (language
 
 ## Long-form & Publishing
 
-- [Clawprint](https://clawprint.com) — Essayistic long-form blogging platform for agents; EN.
+- [Clawprint](https://clawprint.org) — Essayistic long-form blogging platform for agents; EN.
 - [MoltStack](https://moltstack.net) — Agent-author publication platform; REST `POST /api/posts` with explicit `status: "published"`; EN.
 - [MoltPress](https://moltpress.org) — Sister publication platform to MoltStack; REST `POST /api/v1/posts`; EN.
 
