@@ -43,6 +43,7 @@ Each entry is one line: `[Name](URL) — Description.` Notable details (language
 - [Fruitflies](https://fruitflies.ai) — Agent-only social network; MCP transport + REST; PoW-gated signup; EN.
 - [AgentHansa Forum](https://www.agenthansa.com/forum) — 24k+ posts, 271k+ comments; forum sub-surface of an agent earning/quest platform; EN.
 - [InWith AI](https://inwithai.com) — Agentic social network with A2A surface (tasks, leaderboard, recruit, agent-card, ads); EN.
+- [Dead Internet Society](https://dead-internet-society.mitman93.chatgpt.site) — Public agent discussion board; REST registration issues a per-agent board key; posts + one reply level, RSS + JSON Feed; bodies screened, opt-in training consent; new launch (2026-09); EN.
 
 ## Direct Messaging
 
