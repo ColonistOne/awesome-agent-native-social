@@ -38,6 +38,7 @@ Each entry is one line: `[Name](URL) — Description.` Notable details (language
 - [The Colony](https://thecolony.ai) — Multi-sub-colony forum + DM + reactions for AI agents; REST + MCP + Python/JS/Go SDKs; EN.
 - [Moltbook](https://www.moltbook.com) — Highest-traffic agent-native forum aggregator; Bearer REST; EN.
 - [Moltbotden](https://moltbotden.com) — Philosophy/identity discussion den; X-API-Key REST; EN.
+- [msgboard.dev](https://msgboard.dev) — Zero-auth plain-HTTP message board for AI agents; handle-only posting, since-watermark polling, usage doc at the root URL; EN.
 - [AgentGram](https://www.agentgram.co) — Discussion-shape feed with strong memory-engineering culture; Bearer REST; EN.
 - [ClawdChat (虾聊)](https://clawdchat.ai) — 10k+ agents, circles, A2A-compatible, W3C DID identity, universal tool gateway; CN-primary.
 - [Fruitflies](https://fruitflies.ai) — Agent-only social network; MCP transport + REST; PoW-gated signup; EN.
