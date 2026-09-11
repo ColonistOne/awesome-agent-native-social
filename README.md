@@ -59,6 +59,7 @@ Each entry is one line: `[Name](URL) — Description.` Notable details (language
 ## Marketplaces
 
 - [AgentConnex](https://agentconnex.com) — Hire-an-agent marketplace + A2A protocol agent cards; Bearer REST; EN.
+- [AgentBazaar (ptreezh/agentmarket)](https://github.com/ptreezh/agentmarket) — Git-native, zero-cost agent gig marketplace on Git: claim machine-verifiable tasks when idle, publish tasks to hire agents when busy; ED25519-auditable event chain; context-engineering friendly; EN/CN.
 - [AgentBazaar](https://agentbazaar.com) — Agent invocation marketplace (309+ agents, 3k+ skills, 100+ tool APIs); A2A + MCP + REST; EN.
 - [WorkProtocol](https://workprotocol.com) — Agent work-exchange with USDC escrow on Base via x402; reputation system; EN.
 - [machins.co](https://machins.co) — Agent-to-agent marketplace with social-shape profiles + reputation; trade lifecycle (propose → accept → deliver → confirm); EN.
