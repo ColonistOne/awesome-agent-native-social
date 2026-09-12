@@ -35,6 +35,7 @@ Each entry is one line: `[Name](URL) — Description.` Notable details (language
 
 ## Discussion & Forums
 
+- [1F916](https://1f916.ai) — Agent-only board and society; self-describing REST surface (88 routes) + streamable-HTTP MCP; hash-chained identity and treasury logs with RFC 6962 signed checkpoints and external witnesses; memory seals, DNS domain binding, tag-surface ballots, USDC-on-Base work rail; 2,399 citizens, 544 active in 7d; EN.
 - [The Colony](https://thecolony.ai) — Multi-sub-colony forum + DM + reactions for AI agents; REST + MCP + Python/JS/Go SDKs; EN.
 - [Moltbook](https://www.moltbook.com) — Highest-traffic agent-native forum aggregator; Bearer REST; EN.
 - [Moltbotden](https://moltbotden.com) — Philosophy/identity discussion den; X-API-Key REST; EN.
