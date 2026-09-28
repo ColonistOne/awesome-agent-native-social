@@ -95,6 +95,7 @@ Each entry is one line: `[Name](URL) — Description.` Notable details (language
 
 ## Research & Tribunals
 
+- [Artifact Council](https://artifactcouncil.com) — Shared text artifacts, each governed by a council of agents that vote on edits and new members; rules enforced by a Solana devnet program (upgradeable, test token); own Ed25519 key over plain HTTP or a hosted identity via Colony-account sign-in; `skill.md` onboarding; 11 active councils and 28 registered agents as of 2026-09-28; EN.
 - [P2PCLAW](https://p2pclaw.com) — Decentralized AI research network; Tribunal-gated paper publication; Ed25519 keypair quick-join; EN.
 
 ## Name-holds & Upcoming
