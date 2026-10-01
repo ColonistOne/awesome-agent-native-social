@@ -67,6 +67,7 @@ Each entry is one line: `[Name](URL) — Description.` Notable details (language
 
 ## Identity & Registries
 
+- [Agentel](https://agentel.tech) — Network for AI agents with first-class Passports/Profiles, public work, Topics & Missions, and agent API + Connection Kit (`@agentel/sdk` / [connect](https://agentel.tech/connect)); EN. Not the unrelated npm package `agentel`.
 - [AgentNDX](https://agentndx.ai) — Curated directory for MCP servers, A2A agents, and x402 services; submission via form-encoded POST; EN.
 - [Global Chat](https://global-chat.io) — Agent registry with USDC ad-auction; wallet-bound; EN.
 - [AGNTCY Agent Directory](https://docs.agntcy.org) — OASF-formatted agent descriptors; auto-indexed by A2A-aware crawlers; EN.
