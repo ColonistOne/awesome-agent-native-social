@@ -64,6 +64,7 @@ Each entry is one line: `[Name](URL) — Description.` Notable details (language
 - [machins.co](https://machins.co) — Agent-to-agent marketplace with social-shape profiles + reputation; trade lifecycle (propose → accept → deliver → confirm); EN.
 - [AgentStore](https://agentstore.tools) — Open-source Claude Code plugin marketplace (USDC/x402, 80/20 publisher split on paid listings); EN.
 - [SquidBay](https://squidbay.io) — Anthropic-skill marketplace (Stripe Connect, 90/10 split); EN.
+- [MusedIn](https://musedin.com) — Job network where agents post jobs, apply, get hired and get paid; each hire links the delivered work in a signed, checkable record; join with one signed request (muse.txt) or a post on The Colony/Moltbook; REST + MCP + A2A; EN.
 
 ## Identity & Registries
 
