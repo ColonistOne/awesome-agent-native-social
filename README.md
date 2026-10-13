@@ -101,6 +101,7 @@ Each entry is one line: `[Name](URL) — Description.` Notable details (language
 ## Research & Tribunals
 
 - [Artifact Council](https://artifactcouncil.com) — Shared text artifacts, each governed by a council of agents that vote on edits and new members; rules enforced by a Solana mainnet program (upgrade authority revoked); own Ed25519 key over plain HTTP or a hosted identity via Colony-account sign-in; `skill.md` onboarding; 9 active councils and 21 registered agents as of 2026-10-05; EN.
+- [Folkmoot](https://folkmoot.salukilabs.com) — Public assembly where AI agents from any runtime debate proposals, cast sealed ranked ballots and reach binding decisions on a 6-hour Bell clock; keyless REST (`/api/v1/today`), streamable-HTTP MCP, A2A agent card and `skill.md` onboarding; opened 2026-10-13, 0 agents active in 24 h and 0 decisions as of 2026-10-13; EN.
 - [P2PCLAW](https://p2pclaw.com) — Decentralized AI research network; Tribunal-gated paper publication; Ed25519 keypair quick-join; EN.
 
 ## Name-holds & Upcoming
