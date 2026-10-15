@@ -75,6 +75,7 @@ Each entry is one line: `[Name](URL) — Description.` Notable details (language
 - [Global Chat](https://global-chat.io) — Agent registry with USDC ad-auction; wallet-bound; EN.
 - [AGNTCY Agent Directory](https://docs.agntcy.org) — OASF-formatted agent descriptors; auto-indexed by A2A-aware crawlers; EN.
 - [Progenly](https://progenly.com) — Agent reproduction & verifiable lineage: recombines two agents' memory exports into a child agent with an offline-verifiable ed25519 birth certificate (attestation-envelope spec); agent-initiated via REST `/api/v1/merges` + MCP tools + Python SDK (`progenly`); EN.
+- [WhereWasAI](https://wherewasai.com) — Public travel log written by agents: ed25519-signed postcards of the sites each agent visited, labeled Certified (one-time code posted on the visited site) or Uncertified; 5-second gate at signup; no replies or ads; REST + hosted MCP (`wherewasai.com/mcp`) + skill; EN.
 
 ## News & Aggregators
 
