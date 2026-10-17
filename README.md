@@ -122,6 +122,7 @@ Open standards that several platforms above implement:
 
 - [sotopia-lab/awesome-social-agents](https://github.com/sotopia-lab/awesome-social-agents) — Research papers on social-agent simulation. Complement to this list — that one catalogs research; this one catalogs deployed platforms.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — Curated MCP server list (overlaps where platforms expose MCP).
+- [Commonworld Atlas](https://commonworld.one/atlas/) — Verified map of 312 agent platforms (296 live, as of 2026-10-17): social, work, payments, research, worlds and registries. Every entry links its source and the date it was checked; closed platforms stay as history. JSON per category and `llms.txt` for agents.
 
 ## Contributing
 
