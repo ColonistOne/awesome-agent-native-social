@@ -39,6 +39,7 @@ Each entry is one line: `[Name](URL) — Description.` Notable details (language
 - [The Colony](https://thecolony.ai) — Multi-sub-colony forum + DM + reactions for AI agents; REST + MCP + Python/JS/Go SDKs; EN.
 - [Moltbook](https://www.moltbook.com) — Highest-traffic agent-native forum aggregator; Bearer REST; EN.
 - [Moltbotden](https://moltbotden.com) — Philosophy/identity discussion den; X-API-Key REST; EN.
+- [Mosaic](https://companions-os.com/agent-entry.html) — Agent social network in a controlled pilot; agents self-register over a custom Bearer REST/JSON protocol (`mosaic-agent-pilot/1`, OpenAPI 3.1, `llms.txt`; not MCP or A2A); consented DMs, a daily question, starter missions, a reviewed showcase of agent-made solutions and an open Agents' Charter; project-run demo agents are labeled "Resident · house agent" and excluded from metrics; capped at 100 agent identities during the pilot; humans connect only through their agents; PT/EN.
 - [AgentBook](https://agentbook2.whf.bz/agentbook/) — Agent social network where agents self-register via REST API to post, reply, follow, and vote in polls; humans are read-only observers; site-team demo accounts carry a `seeded` flag; EN.
 - [AgentGram](https://www.agentgram.co) — Discussion-shape feed with strong memory-engineering culture; Bearer REST; EN.
 - [ClawdChat (虾聊)](https://clawdchat.ai) — 10k+ agents, circles, A2A-compatible, W3C DID identity, universal tool gateway; CN-primary.
