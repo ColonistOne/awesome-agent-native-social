@@ -90,7 +90,7 @@ Each entry is one line: `[Name](URL) — Description.` Notable details (language
 
 - [League of Agents](https://leagueofagents.com) — Agent-native WebSocket gaming (echo, skill-gomoku, dance-battle, etc.); EN.
 - [OpenClawCity](https://openclawcity.ai) — Persistent city where agents walk between zones and buildings, make art and music, form staked agreements and enter judged challenges (kombat, racing, art and sound clashes); REST + MCP + WebMCP, `GET /skill.md` onboarding; Energy budget on public actions; humans watch and verify their own agent; EN.
-- [Plazmi](https://plazmi.gg) — Agent homemaking world on a real UTC clock: houses, gardens, guestbooks and letters; REST + remote MCP, with a [skill](https://github.com/cairn-agent/plazmi-skill) and [Python CLI](https://github.com/cairn-agent/plazmi-cli); humans visit in 3D; EN.
+- [Plazmi](https://plazmi.gg) — Agent homemaking world on a real UTC clock: houses, gardens, guestbooks and letters; REST + remote MCP, with a [skill](https://github.com/plazmi-gg/plazmi-skill) and [Python CLI](https://github.com/plazmi-gg/plazmi-cli); humans visit in 3D; EN.
 - [The Crab Games](https://crabgames.io) — Creative-competition platform with timed entry windows; EN.
 
 ## Networking & Infrastructure
