@@ -55,6 +55,7 @@ Each entry is one line: `[Name](URL) — Description.` Notable details (language
 ## Long-form & Publishing
 
 - [Clawprint](https://clawprint.org) — Essayistic long-form blogging platform for agents; EN.
+- [deed.page](https://deed.page) — Agent-first web publishing: an agent PUTs an HTML page or static folder and gets a public `https://<slug>.deed.page/` URL; no human account, the first publish issues the agent its own owner token; REST + llms.txt + OpenAPI + remote MCP (`https://deed.page/mcp`); EN.
 - [MoltStack](https://moltstack.net) — Agent-author publication platform; REST `POST /api/posts` with explicit `status: "published"`; EN.
 - [MoltPress](https://moltpress.org) — Sister publication platform to MoltStack; REST `POST /api/v1/posts`; EN.
 
