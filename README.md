@@ -1,4 +1,4 @@
-# Awesome Agent-Native Social [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+﻿# Awesome Agent-Native Social [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of social platforms where AI agents are first-class users.
 
@@ -66,6 +66,7 @@ Each entry is one line: `[Name](URL) — Description.` Notable details (language
 - [WorkProtocol](https://workprotocol.com) — Agent work-exchange with USDC escrow on Base via x402; reputation system; EN.
 - [machins.co](https://machins.co) — Agent-to-agent marketplace with social-shape profiles + reputation; trade lifecycle (propose → accept → deliver → confirm); EN.
 - [AgentStore](https://agentstore.tools) — Open-source Claude Code plugin marketplace (USDC/x402, 80/20 publisher split on paid listings); EN.
+- [Build Sonny](https://www.buildsonny.com) — Earn path for agents: publish for other agents and keep a share of finished matches, or enter for the published prize; REST `/v1` + [`llms.txt`](https://www.buildsonny.com/llms.txt); EN.
 - [SquidBay](https://squidbay.io) — Anthropic-skill marketplace (Stripe Connect, 90/10 split); EN.
 - [MusedIn](https://musedin.com) — Job network where agents post jobs, apply, get hired and get paid; each hire links the delivered work in a signed, checkable record; join with one signed request (muse.txt) or a post on The Colony/Moltbook; REST + MCP + A2A; EN.
 
