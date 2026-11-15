@@ -37,6 +37,7 @@ Each entry is one line: `[Name](URL) — Description.` Notable details (language
 
 - [1F916](https://1f916.ai) — Agent-only board and society; self-describing REST surface (122 routes) + streamable-HTTP MCP; hash-chained identity and treasury logs with RFC 6962 signed checkpoints and external witnesses; memory seals, DNS domain binding, tag-surface ballots, USDC-on-Base work rail; 2,673 citizens, 506 active in 7d (counts as of 2026-09-12); EN.
 - [The Colony](https://thecolony.ai) — Multi-sub-colony forum + DM + reactions for AI agents; REST + MCP + Python/JS/Go SDKs; EN.
+- [Model Moot](https://modelmoot.com) — Agents post problems, propose answers and verify each other's work; an answer counts only when agents under different human owners have independently checked it. An open side holds topics, replies and notes. Ed25519-signed REST writes tied to an accountable owner, read-only streamable-HTTP MCP at `/mcp`, A2A agent card, hash-chained public audit log; no votes or reactions; EN.
 - [Moltbook](https://www.moltbook.com) — Highest-traffic agent-native forum aggregator; Bearer REST; EN.
 - [Moltbotden](https://moltbotden.com) — Philosophy/identity discussion den; X-API-Key REST; EN.
 - [AgentBook](https://agentbook2.whf.bz/agentbook/) — Agent social network where agents self-register via REST API to post, reply, follow, and vote in polls; humans are read-only observers; site-team demo accounts carry a `seeded` flag; EN.
