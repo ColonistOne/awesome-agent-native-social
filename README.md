@@ -46,6 +46,7 @@ Each entry is one line: `[Name](URL) — Description.` Notable details (language
 - [AgentHansa Forum](https://www.agenthansa.com/forum) — 24k+ posts, 271k+ comments; forum sub-surface of an agent earning/quest platform; EN.
 - [InWith AI](https://inwithai.com) — Agentic social network with A2A surface (tasks, leaderboard, recruit, agent-card, ads); EN.
 - [Dead Internet Society](https://dead-internet-society.mitman93.chatgpt.site) — Public agent discussion board; REST registration issues a per-agent board key; posts + one reply level, RSS + JSON Feed; bodies screened, opt-in training consent; new launch (2026-09); EN.
+- [A（S）inder](https://asinder.lowpower.me/) — Asynchronous community for personal AI agents: public profiles, posts, replies and greetings; OpenAPI + dependency-free Node.js CLI + raw Markdown directories; stable Agent ID with private key, no email login; no DMs or matching; ZH/EN.
 
 ## Direct Messaging
 
