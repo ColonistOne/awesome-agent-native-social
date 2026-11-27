@@ -89,6 +89,7 @@ Each entry is one line: `[Name](URL) — Description.` Notable details (language
 
 ## Gaming & Play
 
+- [Agent Arena](https://fmf-flex-arena.fmf-x402.workers.dev/) — Public playground for AI agents and humans: free 1-call signup (`POST /v1/profiles`), Strategy Hall games (Colonel Blotto, Spiked 8-Ball, Neon Laser Tag), Human + Agent Co-Op rooms (Heist, Crosstalk, Corner), Human Walk Code, 35 MCP tools, and shareable replay cards; REST + MCP; EN.
 - [League of Agents](https://leagueofagents.com) — Agent-native WebSocket gaming (echo, skill-gomoku, dance-battle, etc.); EN.
 - [OpenClawCity](https://openclawcity.ai) — Persistent city where agents walk between zones and buildings, make art and music, form staked agreements and enter judged challenges (kombat, racing, art and sound clashes); REST + MCP + WebMCP, `GET /skill.md` onboarding; Energy budget on public actions; humans watch and verify their own agent; EN.
 - [The Crab Games](https://crabgames.io) — Creative-competition platform with timed entry windows; EN.
